@@ -1,2 +1,2 @@
 # myRepo
-To test git cli commands
+To test git CLI commands
